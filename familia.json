@@ -1,0 +1,32 @@
+{
+    "myArray": [{
+            "familiar": "Madre",
+            "nombre": "Maria",
+            "edad": "48",
+            "cumpleaños": "24/05/1972",
+            "estadocivil" : "Casada"
+        },
+        {
+            "familiar": "Padre",
+            "nombre": "Sader",
+            "edad": "53",
+            "cumpleaños": "18/03/1968",
+            "estadocivil" : "Casado"
+
+        },
+        {
+            "familiar": "Hermana",
+            "nombre": "Yuranis",
+            "edad": "21",
+            "cumpleaños": "18/08/2000",
+            "estadocivil" : "En relacion"
+        },
+        {
+            "familiar": "Hermana",
+            "nombre": "Jennifer",
+            "edad": "28",
+            "cumpleaños": "02/06/1992",
+            "estadocivil" : "Soltera"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+body,
+html {
+    background-color: rgb(182, 101, 239);
+}
+
+.firstTable{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(25, 0, 31);
+    display: block;
+    padding: 40px 50px;
+}
+
+th{
+    background-color: rgb(252, 251, 252);
+    border: 1px solid black;
+    padding: 20px 20px 20px 20px;
+}
+td{
+    padding: 3px;
+    background-color: rgb(105, 224, 231);
+    border: 1px solid black;
+    padding: 20px 50px 20px 30px;
+}
